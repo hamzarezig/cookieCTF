@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(0deg, #a9ff68, #ffffff);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+nav{
+    background-color: #a9ff68;
+    height: 50px;
+    padding-top: 10px;
+    position: fixed;
+    z-index: 99;
+    width: 100vw;
+    top: 0;
+}
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgb(92, 92, 92);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+    height: 70vw;
+    width: 70vw;
+    max-height: 600px;
+    max-width: 600px;
+    display: block;
+    object-fit: cover;
+    object-position: center center;
+    margin-bottom: 50px ;
+}
+#top{
+    margin-top: 100px;
+}
+
+/* 
+shhhh do not tell any one about this
+
+68 74 74 70 73 3a 2f 2f 77 77 77 2e 79 6f 75 74 75 62 65 2e 63 6f 6d 2f 77 61 74 63 68 3f 76 3d 35 6e 67 57 49 44 6b 50 50 33 6f
+
+*/

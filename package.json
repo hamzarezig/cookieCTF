@@ -1,0 +1,15 @@
+{
+  "name": "beginner2ctf",
+  "version": "1.0.0",
+  "description": "ctf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hamza",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2"
+  }
+}
